@@ -68,4 +68,5 @@ public abstract class Employee {
     }
 
     public abstract double earnings();
+    //555
 }
